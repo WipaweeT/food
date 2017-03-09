@@ -38,19 +38,33 @@ li {
 li:hover {
   cursor: pointer;
 }
-li.girl {
-  background: #ffc6e5;
-  color: #940050;
+li.ThaiFood {
+  background: 	#FF6666;
+  color: #FFFFFF;
 }
-li.girl:hover {
-  background: #ffadd9;
+li.ThaiFood:hover {
+  background: #FF3333;
 }
-li.boy {
-  background: #a0cfee;
-  color: #16527a;
+li.HealthFood {
+  background: #FFCC66;
+  color: #FFFFFF;
 }
-li.boy:hover {
-  background: #8bc4ea;
+li.HealthFood:hover {
+  background: #FFCC33;
+}
+li.Bakery {
+  background: #66CCCC;
+  color: #FFFFFF;
+}
+li.Bakery:hover {
+  background: #6699FF;
+}
+li.Drink {
+  background: #33CC66;
+  color: #FFFFFF;
+}
+li.Drink:hover {
+  background: #339966;
 }
 
 /* ##### Favourites ##### */
@@ -107,4 +121,5 @@ button {
 button:hover {
   background: #ddd;
 }
+
 
